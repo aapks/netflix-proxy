@@ -109,7 +109,8 @@ Usage: ./build.sh [-b 0|1] [-c <ip>]
         -b      grab docker images from repository (0) or build locally (1) (default: 0)
         -c      specify client-ip instead of being taken from ssh_connection
 ```
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ### updates
 In order to update your existing database schema, please run the provided `update.sh` script. Alternatively you can run the schema updates manually (e.g. if you skipped a version).
 
